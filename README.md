@@ -1,24 +1,3 @@
-# README
+# RAILS APP WITH Stimulus JAVASCRIPT FRAMEWORK
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created a people scaffold and used stimulus on the form for tests.
